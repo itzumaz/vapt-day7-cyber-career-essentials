@@ -13,7 +13,7 @@ The Day 7 milestone focused on foundational career strategy and professional rea
 * **Recipient:** Azeez Umar Opeyemi
 * **Certificate ID:** `ERN-CCE-26-HELMPPGO`
 * **Issue Date:** September 7, 2026
-* **Training Director:** Ritik Kumar
+* **Training Instructor: Trioscyber
 
 ---
 
